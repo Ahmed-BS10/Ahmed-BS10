@@ -1,30 +1,66 @@
-# Ahmed Bin Shmalan
+# 👋 Hi, I’m Ahmed Bin Shmalan
 
-👋 Hi, I’m Ahmed Bin Shmalan  
-👀 I’m interested in Backend .NET  
-🌱 I’m currently learning Flutter  
-💞️ I’m looking to collaborate on Full Stack Mobile  
-📫 How to reach me: [Your Contact Information, e.g., Email, LinkedIn]  
-😄 Pronouns: [Your Pronouns, e.g., He/Him, She/Her, They/Them]  
-⚡ Fun fact: [Something unique about you, e.g., "I love solving coding puzzles in my free time."]
+### About Me
+- 💻 **Backend Developer** specializing in **.NET**.
+- 🌱 Currently learning **Flutter** for mobile development.
+- 🚀 Interested in **Full Stack Mobile Development**.
+- 💞️ Looking to collaborate on **backend .NET projects** or **full-stack mobile apps**.
+- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [GitHub Profile]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex problems and building scalable systems.
 
-## Skills
+---
 
-- **Backend Development**: .NET, ASP.NET Core, Entity Framework, SQL Server, APIs
-- **Frontend Development**: Flutter (currently learning), basic knowledge of HTML, CSS, and JavaScript
-- **Databases**: SQL, NoSQL, Entity Framework
-- **Version Control**: Git, GitHub
+## 🛠️ Skills
+- **Backend Development**: .NET, ASP.NET Core, C#, Entity Framework Core, RESTful APIs, Microservices.
+- **Frontend Development**: Flutter, Dart.
+- **Databases**: SQL Server
+- **Tools**: Git, Visual Studio, VS Code.
+=
+---
 
-## Projects
+## 🌱 Currently Learning
+- **Flutter** for cross-platform mobile development.
+- Advanced **.NET Core** concepts for building scalable backend systems.
 
-- **[Project Name]**: Brief description of what this project is about.
-- **[Another Project Name]**: Another project description.
+---
 
-## Currently Learning
+## 💼 Projects
 
-- Flutter for Mobile Development  
-- Advanced .NET practices and architectures like Clean Architecture, CQRS
+### 1. **Task Management API**
+   - **Description**: A RESTful API built with ASP.NET Core for managing tasks.
+   - **Features**: CRUD operations, JWT authentication, Entity Framework Core for database interactions.
+   - **Tech Stack**: .NET Core, SQL Server, Swagger for API documentation.
+   - **[GitHub Link](#)**
 
-## How to collaborate
+### 2. **E-commerce Backend**
+   - **Description**: A backend system for an e-commerce platform.
+   - **Features**: Product management, order processing, payment integration.
+   - **Tech Stack**: ASP.NET Core, Entity Framework Core, PostgreSQL.
+   - **[GitHub Link](#)**
 
-I’m open to working on full-stack mobile applications and backend .NET development. Feel free to reach out if you have exciting projects to work on!
+### 3. **Flutter Mobile App with .NET Backend**
+   - **Description**: A full-stack mobile app with a .NET backend and Flutter frontend.
+   - **Features**: User authentication, real-time data sync, responsive UI.
+   - **Tech Stack**: Flutter, Dart, ASP.NET Core, SQL Server.
+   - **[GitHub Link](#)**
+
+---
+
+## 📫 How to Reach Me
+- **Email**: [Your Email Address]
+- **LinkedIn**: [Your LinkedIn Profile Link]
+- **GitHub**: [Your GitHub Profile Link]
+
+---
+
+## 🤝 Let’s Collaborate!
+I’m always open to collaborating on **backend .NET projects** or **full-stack mobile apps**. If you have an idea or project, feel free to reach out!
+
+---
+
+## ⚡ Fun Fact
+I enjoy exploring new technologies and building projects that solve real-world problems. When I'm not coding, I love [Your Hobby/Interest].
+
+---
+
