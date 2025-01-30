@@ -12,11 +12,11 @@
 ---
 
 ## 🛠️ Skills
-- **Backend Development**: .NET, ASP.NET Core, C#, Entity Framework Core, RESTful APIs, Microservices.
+- **Backend Development**: .NET, ASP.NET Core, C#, Entity Framework Core, RESTful APIs.
 - **Frontend Development**: Flutter, Dart.
-- **Databases**: SQL Server, PostgreSQL, MySQL.
-- **Tools**: Git, Docker, Visual Studio, VS Code.
-- **Cloud**: Azure, AWS (basic knowledge).
+- **Databases**: SQL Server.
+- **Tools**: Git,  Visual Studio, VS Code.
+
 
 ---
 
@@ -49,28 +49,13 @@
 ---
 
 ## 📫 How to Reach Me
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **GitHub**: [Your GitHub Profile Link]
+- **Email**: [ahmedbenshmalan@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-ben-shmalan-11805529a]
+
 
 ---
 
 ## 🤝 Let’s Collaborate!
 I’m always open to collaborating on **backend .NET projects** or **full-stack mobile apps**. If you have an idea or project, feel free to reach out!
 
----
 
-## ⚡ Fun Fact
-I enjoy exploring new technologies and building projects that solve real-world problems. When I'm not coding, I love [Your Hobby/Interest].
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)
-
----
