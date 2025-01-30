@@ -30,6 +30,6 @@
 ---
 
 ## 🤝 Let’s Collaborate!
-I’m always open to collaborating on **backend .NET projects** or **full-stack mobile apps**. If you have an idea or project, feel free to reach out!
+I’m always open to collaborating on **backend .NET projects** If you have an idea or project, feel free to reach out!
 
 
