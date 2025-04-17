@@ -1,79 +1,35 @@
-# 👋 Hi, I'm Ahmed Bin Shmalan  
-**🚀 .NET Backend Developer | Flutter Enthusiast | Problem Solver**
+# 👋 Hi, I’m Ahmed Bin Shmalan
+
+### About Me
+- 💻 **Backend Developer** specializing in **.NET**.
+- 🌱 Currently learning Advanced **.NET Core** concepts for building scalable backend systems.
+- 🚀 Interested in **Full Stack Mobile Development**.
+- 💞️ Looking to collaborate on **backend .NET projects**.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving complex problems and building scalable systems.
 
 ---
 
-### 💡 About Me
-- 💻 **Backend Specialist** with **3+ years** crafting robust systems using **.NET Ecosystem**
-- 🌱 Mastering **.NET 8** advanced features (Microservices, Performance Optimization, Cloud Integration)
-- 📱 Expanding horizons into **Full-Stack Mobile Development** with **Flutter & Firebase**
-- 🧩 Passionate about architecting **scalable solutions** for complex business problems
-- 🔭 Currently exploring **Cloud-Native Development** (Azure/AWS) and **Domain-Driven Design**
-- ⚡ Fun fact: Built a custom API gateway handling 10k+ RPM during my learning experiments!
+## 🛠️ Skills
+- **Backend Development**: .NET, ASP.NET Core, C#, Entity Framework Core, RESTful APIs.
+- **Frontend Development**: Flutter, Dart.
+- **Databases**: SQL Server.
+- **Tools**: Git,  Visual Studio, VS Code.
+
+
+
+## 🌱 Currently Learning
+- Advanced **.NET Core** concepts for building scalable backend systems.
+
+
+## 📫 How to Reach Me
+- **Email**: [ahmedbenshmalan@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-ben-shmalan-11805529a]
+
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🤝 Let’s Collaborate!
+I’m always open to collaborating on **backend .NET projects** If you have an idea or project, feel free to reach out!
 
-#### **Backend Development**
-<img align="left" alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 
-- **Frameworks**: .NET Core/.NET 8, ASP.NET Core, Entity Framework Core
-- **APIs**: RESTful Services, GraphQL, gRPC
-- **Architecture**: Clean Architecture, Microservices, CQRS
-- **Cloud**: Azure Functions, App Services, Service Bus
-- **Testing**: xUnit, Moq, Integration Testing
-
-#### **Mobile & Frontend**
-<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-
-- Flutter State Management (Bloc, Riverpod)
-- Firebase Integration (Auth, Firestore, Cloud Functions)
-- MVVM Architecture
-- Responsive UI Design
-
-#### **Databases**
-<img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-<img align="left" alt="Redis" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-
-- SQL Server Optimization
-- Database Design & Migration Strategies
-- Caching with Redis
-- ORM: EF Core, Dapper
-
----
-
-### 🏆 Recent Achievements
-- 🥇 **Microsoft Certified** - .NET Developer Associate (AZ-204)
-- 📈 Optimized API response times by 40% through query optimization
-- 🛠️ Created open-source EF Core extension library (200+ GitHub stars)
-- � Led backend development for 3 production-ready SaaS applications
-
----
-
-### 📚 Current Learning Focus
-- 📊 Advanced Distributed Systems Design
-- ☁️ Azure Cloud Architecture (AZ-400)
-- 🔒 Application Security Best Practices
-- 🧪 Test-Driven Development in .NET
-- 🚀 Serverless Architectures
-
----
-
-### 💬 Let's Connect!
-I'm always excited to discuss:
-- Backend architecture challenges
-- .NET performance optimization
-- Flutter/.NET full-stack projects
-- Open-source collaborations
-
-📫 **Reach out**: [![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedbenshmalan@gmail.com)  
-💼 **Professional Profile**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ben-shmalan-11805529a)  
-🐱 **My Projects**: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-
----
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
