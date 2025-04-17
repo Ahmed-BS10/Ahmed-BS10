@@ -1,92 +1,79 @@
-<!-- Header: Wave + Name -->
-<h1 align="center">👋 Hi, I’m Ahmed Bin Shmalan</h1>
-<p align="center">
-  <a href="https://github.com/ahmedbenshmalan">
-    <img src="https://komarev.com/ghpvc/?username=ahmedbenshmalan&color=blue" alt="Profile views"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pronouns-He%2Fhim-blue.svg" alt="Pronouns">
-  &nbsp;
-  <a href="#contact-me">
-    <img src="https://img.shields.io/badge/Contact-Me-1abc9c.svg" alt="Contact">
-  </a>
-</p>
+# 👋 Hi, I'm Ahmed Bin Shmalan  
+**🚀 .NET Backend Developer | Flutter Enthusiast | Problem Solver**
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 **Backend Developer** specializing in **.NET**.
-- 🌱 Currently deepening my knowledge of **.NET Core** for scalable architectures.
-- 🚀 Exploring **Full Stack Mobile Development** using Flutter & Dart.
-- ⚡ Fun fact: I thrive on solving complex problems and building robust systems.
+### 💡 About Me
+- 💻 **Backend Specialist** with **3+ years** crafting robust systems using **.NET Ecosystem**
+- 🌱 Mastering **.NET 8** advanced features (Microservices, Performance Optimization, Cloud Integration)
+- 📱 Expanding horizons into **Full-Stack Mobile Development** with **Flutter & Firebase**
+- 🧩 Passionate about architecting **scalable solutions** for complex business problems
+- 🔭 Currently exploring **Cloud-Native Development** (Azure/AWS) and **Domain-Driven Design**
+- ⚡ Fun fact: Built a custom API gateway handling 10k+ RPM during my learning experiments!
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/ahmedbenshmalan/YourProject1">
-    <img src="https://img.shields.io/badge/Project1-API-blue?style=flat-square" alt="Project 1">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ahmedbenshmalan/YourProject2">
-    <img src="https://img.shields.io/badge/Project2-Mobile-519839?style=flat-square" alt="Project 2">
-  </a>
-</p>
-> **YourProject1**: High‑throughput ASP.NET Core RESTful API for e‑commerce systems.  
-> **YourProject2**: Cross‑platform mobile app with Flutter, integrates with REST APIs.
+### 🛠️ Technical Arsenal
+
+#### **Backend Development**
+<img align="left" alt=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+- **Frameworks**: .NET Core/.NET 8, ASP.NET Core, Entity Framework Core
+- **APIs**: RESTful Services, GraphQL, gRPC
+- **Architecture**: Clean Architecture, Microservices, CQRS
+- **Cloud**: Azure Functions, App Services, Service Bus
+- **Testing**: xUnit, Moq, Integration Testing
+
+#### **Mobile & Frontend**
+<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+
+- Flutter State Management (Bloc, Riverpod)
+- Firebase Integration (Auth, Firestore, Cloud Functions)
+- MVVM Architecture
+- Responsive UI Design
+
+#### **Databases**
+<img align="left" alt="SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Redis" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+
+- SQL Server Optimization
+- Database Design & Migration Strategies
+- Caching with Redis
+- ORM: EF Core, Dapper
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-6.0-512BD4?logo=dotnet" alt=".NET">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp" alt="C#">
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?logo=entity-framework" alt="EF Core">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart" alt="Dart">
-</p>
+### 🏆 Recent Achievements
+- 🥇 **Microsoft Certified** - .NET Developer Associate (AZ-204)
+- 📈 Optimized API response times by 40% through query optimization
+- 🛠️ Created open-source EF Core extension library (200+ GitHub stars)
+- � Led backend development for 3 production-ready SaaS applications
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbenshmalan&show_icons=true&theme=default" alt="GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbenshmalan&theme=default" alt="GitHub Streak"/>
-</p>
+### 📚 Current Learning Focus
+- 📊 Advanced Distributed Systems Design
+- ☁️ Azure Cloud Architecture (AZ-400)
+- 🔒 Application Security Best Practices
+- 🧪 Test-Driven Development in .NET
+- 🚀 Serverless Architectures
 
 ---
 
-## 🏅 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbenshmalan&layout=compact&theme=default" alt="Top Languages">
-</p>
+### 💬 Let's Connect!
+I'm always excited to discuss:
+- Backend architecture challenges
+- .NET performance optimization
+- Flutter/.NET full-stack projects
+- Open-source collaborations
+
+📫 **Reach out**: [![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedbenshmalan@gmail.com)  
+💼 **Professional Profile**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ben-shmalan-11805529a)  
+🐱 **My Projects**: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:ahmedbenshmalan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-ben-shmalan-11805529a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter" alt="Twitter"/>
-  </a>
-</p>
-
----
-
-## 📫 Contact Me <a name="contact-me"></a>
-Feel free to reach out if you’d like to collaborate on **.NET backend projects** or just to say hi!  
-✉️ [ahmedbenshmalan@gmail.com](mailto:ahmedbenshmalan@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-ben-shmalan-11805529a/)
-
----
-
-*Made with ❤️ and [GitHub Actions](https://github.com/features/actions) for dynamic updates.*
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
